@@ -1,0 +1,7 @@
+
+
+
+Depend on training data.
+May provide outdated information.
+Can hallucinate (generate incorrect facts).
+
