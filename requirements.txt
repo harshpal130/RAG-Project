@@ -28,6 +28,7 @@ python-docx
 unstructured
 beautifulsoup4
 
+streamlit
 
 # Utilities
 tqdm
